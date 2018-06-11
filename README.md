@@ -6,7 +6,7 @@ Bubble Tea Project - February 9, 2018
 Created by Dara Sy
 
 
-Movements of the bubbles were inspired by 
+Movements of the bubbles were inspired by: 
 
 https://p5js.org/examples/objects-array-of-objects.html (a P5 example)
 
@@ -19,6 +19,7 @@ https://www.youtube.com/watch?v=F3GeM_KrGjI
 I am inspired to create Bubble Tea, using a combination of objects, arrays, and constructor function. 
 
 
-My blog post explains how I built this project step-by-step: https://thejourneytocoding.wordpress.com/2018/02/08/final-project-taste-the-bubble-tea/ 
+My blog post explains how I built this project step-by-step: 
+https://thejourneytocoding.wordpress.com/2018/02/08/final-project-taste-the-bubble-tea/ 
 
 
