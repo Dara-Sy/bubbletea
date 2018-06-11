@@ -19,6 +19,6 @@ https://www.youtube.com/watch?v=F3GeM_KrGjI
 I am inspired to create Bubble Tea, using a combination of objects, arrays, and constructor function. 
 
 
-My blog post: https://thejourneytocoding.wordpress.com/2018/02/08/final-project-taste-the-bubble-tea/ 
+My blog post explains how I built this project step-by-step: https://thejourneytocoding.wordpress.com/2018/02/08/final-project-taste-the-bubble-tea/ 
 
 
