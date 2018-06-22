@@ -5,6 +5,8 @@ Bubble Tea Project - February 9, 2018
 
 Created by Dara Sy
 
+This is an interactive bubble tea menu that uses p5.js a JavaScript library. 
+Press any key on the keyboard to choose your favorite bubble tea flavor.
 
 Movements of the bubbles were inspired by: 
 
