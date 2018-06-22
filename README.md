@@ -8,6 +8,8 @@ Created by Dara Sy
 This is an interactive bubble tea menu that uses p5.js a JavaScript library. 
 Press any key on the keyboard to choose your favorite bubble tea flavor.
 
+## View Project Here: https://dara-sy.github.io/bubbletea/
+
 Movements of the bubbles were inspired by: 
 
 https://p5js.org/examples/objects-array-of-objects.html (a P5 example)
